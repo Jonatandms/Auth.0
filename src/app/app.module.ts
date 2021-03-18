@@ -22,8 +22,8 @@ import { AuthButtonComponent } from './components/authbutton/authbutton.componen
     BrowserModule,
     AppRoutingModule,
     AuthModule.forRoot({
-      domain: 'dev-8w8ls0kl.eu.auth0.com',
-      clientId: 'VVVSEzYUT0X1clbPImQMVzW5GLMoOnYw'
+      domain: 'XXXXXXXXXXXXXXXXXX',
+      clientId: 'XXXXXXXXXXXXXXXXXX'
     }),
   ],
   providers: [],
