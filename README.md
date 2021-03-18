@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Cambiar parametros de configuracion de Auth.0
+Para que funcione correctamente Auth.0, hay que cambiar los parametros con los propios creados de la aplicacion en Auth.0:
+![image](https://user-images.githubusercontent.com/55733448/111621378-37026b80-87e8-11eb-8a4a-55a1263e5eb4.png)
